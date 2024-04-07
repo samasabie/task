@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.products{
+    width: 75%;
+    height: auto;
+    border: solid;
+    margin: 40px auto;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h1{
+    margin: 25px;
+}
+h2{
+    margin-bottom: 10px;
+}
+P{
+    color: darkgray;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.iphone{
+    width: 24%;
+    height: auto;
+    float: left;
+    border: solid 1px gray;
+    padding: 5px;
+    margin: 2px;
+}
+img{
+    width:100%;
+    height: auto;
+  
+}
+.sale{
+    color: rgb(12, 155, 12);
+    font-size: larger;
+    font-weight: bold;
+}
+.cost{
+    color: red;
+    font-weight: bold;
+
+}
+.button {
+    background-color: rgb(11, 11, 219);
+    border: 0;
+    width:150px;
+    padding: 4px;
+ }
+svg{
+    width: 20px;
+}
+
+.clear{
+    clear: left;
+}
